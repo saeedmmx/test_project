@@ -4,3 +4,4 @@ sbg
 
 
 s
+new method for making responsive.
