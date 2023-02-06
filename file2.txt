@@ -1,9 +1,0 @@
-New file to project.
-sggg
-sbg
-
-
-s
-new method for making responsive.
-make table responsive.
-add number 200.
