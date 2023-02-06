@@ -1,0 +1,7 @@
+# add my test comment
+
+*.doc
+
+temp/
+
+asset/build/
